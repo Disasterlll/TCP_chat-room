@@ -1,0 +1,152 @@
+2024-03-10 16:37:41 - New client connection received: Client (1)
+2024-03-10 16:37:53 - Message sent from non: bob
+2024-03-10 16:38:53 - New client connection received: Client (1)
+2024-03-10 16:39:19 - Message sent from Muhammad: hello there
+2024-03-10 16:39:22 - Client disconnected: Muhammad
+2024-03-10 16:42:20 - New client connection received: Client (1)
+2024-03-10 16:42:28 - Message received from mom: hello son
+2024-03-10 16:42:33 - Message sent from mom: hi son
+2024-03-10 16:42:43 - File received from mom: Client (mom) wants to send a file. Do you want to accept it?
+File Name:media_1655923d8b0386180ca09391e8654c4e468090bb3.jpeg
+File Size: 37961 bytes
+2024-03-10 16:42:49 - Client disconnected: mom
+2024-03-10 16:45:20 - New client connection received: Client (1)
+2024-03-10 16:45:29 - New client connection received: Client (2)
+2024-03-10 16:45:43 - Message received from Lorna: hello
+2024-03-10 16:45:47 - Message received from Red: hello
+2024-03-10 16:45:58 - Message received from Lorna: hello
+2024-03-10 16:46:05 - Message received from Red: hello
+2024-03-10 16:46:16 - Message received from Red: 
+2024-03-10 16:46:25 - Message sent from Lorna: hello
+2024-03-10 16:46:37 - Message received from Red: hello
+2024-03-10 16:46:57 - File received from Red: Client (Red) wants to send a file. Do you want to accept it?
+File Name:media_1655923d8b0386180ca09391e8654c4e468090bb3.jpeg
+File Size: 37961 bytes
+2024-03-10 16:47:10 - File received from Lorna: Client (Lorna) wants to send a file. Do you want to accept it?
+File Name:media_1655923d8b0386180ca09391e8654c4e468090bb3.jpeg
+File Size: 37961 bytes
+2024-03-10 16:47:20 - Client disconnected: Red
+2024-03-10 16:47:25 - Client disconnected: Lorna
+2024-03-12 17:35:27 - New client connection received: Client (1)
+2024-03-12 17:35:38 - New client connection received: Client (2)
+2024-03-12 17:36:11 - Message received from sdd: ddd
+2024-03-12 17:36:18 - Message received from dddd: ddd
+2024-03-12 17:36:22 - Message received from sdd: ddd
+2024-03-12 17:36:30 - Message received from dddd: ddd
+2024-03-12 17:36:38 - Message received from dddd: dddd
+2024-03-12 17:36:41 - Message received from sdd: asddd
+2024-03-12 17:36:46 - Message received from sdd: dd
+2024-03-12 17:36:48 - Message received from dddd: ddd
+2024-03-12 17:36:53 - Message received from sdd: ddd
+2024-03-12 17:37:00 - Message received from dddd: dddasd
+2024-03-12 17:37:02 - Message received from sdd: ddd
+2024-03-12 17:37:04 - Message received from dddd: asdd
+2024-03-12 17:59:49 - New client connection received: Client (1)
+2024-03-12 17:59:55 - File received from Client (1): Client () wants to send a file. Do you want to accept it?
+File Name:saddd
+File Size: 0 bytes
+2024-03-12 17:59:56 - Message received from Client (1): ddddd
+2024-03-12 17:59:58 - Message received from Client (1): asdd
+2024-03-12 17:59:59 - Message received from Client (1): asddd
+2024-03-12 18:00:03 - Client disconnected: Client (1)
+2024-03-12 18:00:07 - New client connection received: Client (1)
+2024-03-12 18:00:15 - File received from Client (1): Client () wants to send a file. Do you want to accept it?
+File Name:asd
+File Size: 0 bytes
+2024-03-12 18:06:35 - New client connection received: Client (1)
+2024-03-12 18:07:02 - Client disconnected: Client (1)
+2024-03-12 18:07:03 - File received from Client (1): File transfer request from Client (). Accept or Decline?
+File Name:dasd
+File Size: 0 bytes
+2024-03-12 18:07:20 - New client connection received: Client (1)
+2024-03-12 18:07:32 - File received from Client (1): File transfer request from Client (). Accept or Decline?
+File Name:Aleksandar
+File Size: 0 bytes
+2024-03-12 18:07:36 - Message received from Client (1): Hello sir
+2024-03-12 18:07:38 - Message received from Client (1): 
+2024-03-12 18:07:39 - Message received from Client (1): 
+2024-03-12 18:07:44 - Message sent from Client (1): waguan
+2024-03-12 18:07:50 - Message received from Client (1): not much fam wys
+2024-03-12 18:08:11 - Message sent from Client (1): Nize your beak fam
+2024-03-12 18:08:26 - Message received from Client (1): ahlie
+2024-03-12 18:13:18 - New client connection received: Client (1)
+2024-03-12 18:13:27 - Message received from Aleksandar: WAguan
+2024-03-12 18:13:32 - Message sent from Aleksandar: nm fam wys
+2024-03-12 18:14:00 - Message received from Aleksandar: chilling styl
+2024-03-12 18:15:59 - New client connection received: Client (1)
+2024-03-12 18:16:06 - Message received from aleks: chingsdsdd
+2024-03-12 18:16:08 - Message sent from aleks: asdddddd
+2024-03-12 18:16:10 - Message received from aleks: dddd
+2024-03-12 18:16:11 - Client disconnected: aleks
+2024-03-12 18:38:35 - New client connection received: Client (1)
+2024-03-12 18:38:37 - Message received from ddd: dddd
+2024-03-12 18:38:39 - Message sent from ddd: dddd
+2024-03-12 18:38:40 - Client disconnected: ddd
+2024-03-12 18:39:08 - New client connection received: Client (1)
+2024-03-12 18:39:13 - Message received from ASdsd: dddd
+2024-03-12 18:39:15 - Message sent from ASdsd: ASdd
+2024-03-12 18:42:52 - New client connection received: Client (1)
+2024-03-12 18:43:06 - Message received from Aleks: Yo
+2024-03-12 18:43:09 - Message sent from Aleks: yo
+2024-03-12 18:43:13 - Message received from Aleks: Yo
+2024-03-12 18:43:17 - Message sent from Aleks: yo
+2024-03-12 18:43:33 - Message received from Aleks: yo
+2024-03-12 18:43:37 - Message sent from Aleks: yo?
+2024-03-12 18:45:42 - New client connection received: Client (1)
+2024-03-12 18:45:45 - Message received from yo: yoyo
+2024-03-12 18:45:49 - Message sent from yo: waguan
+2024-03-12 18:45:54 - Message received from yo: nm fam wys
+2024-03-12 18:46:06 - Client disconnected: yo
+2024-03-12 18:48:51 - New client connection received: Client (1)
+2024-03-12 18:49:00 - Message received from Aleks: YoYo
+2024-03-12 18:49:04 - Message sent from Aleks: YoYoYo
+2024-03-12 18:49:07 - Message received from Aleks: YoYoYoYo
+2024-03-12 18:49:11 - Message sent from Aleks: YoYoYoYOYO
+2024-03-12 18:52:12 - New client connection received: Client (1)
+2024-03-12 18:52:16 - Message received from waguan: wagyan
+2024-03-12 18:52:20 - Message sent from waguan: nyeahhh
+2024-03-12 18:57:00 - New client connection received: Client (1)
+2024-03-12 18:57:07 - Message received from Aleks: Waguan fam
+2024-03-12 18:57:11 - Message sent from Aleks: nm fam wys
+2024-03-12 18:58:16 - New client connection received: Client (1)
+2024-03-12 18:58:27 - Message received from Aleks: Waguan fam wys
+2024-03-12 18:58:34 - Message sent from Aleks: nm fam just chilling
+2024-03-12 18:59:56 - New client connection received: Client (1)
+2024-03-12 19:00:03 - Message received from Aleks: im dat guy fma
+2024-03-12 19:00:06 - Message sent from Aleks: word
+2024-03-13 20:45:57 - New client connection received: Client (1)
+2024-03-13 20:46:08 - Client disconnected: Client (1)
+2024-03-13 20:46:09 - File received from Client (1): File transfer request from Client (). Accept or Decline?
+File Name:
+File Size: 0 bytes
+2024-03-13 22:28:01 - New client connection received: Client (1)
+2024-03-13 22:28:07 - Message received from Aleks: Waguan
+2024-03-13 22:28:17 - Message sent from Aleks: Yo
+2024-03-14 16:37:54 - New client connection received: Client (1)
+2024-03-14 16:37:56 - Message received from asddd: ddddd
+2024-03-14 16:37:58 - Message sent from asddd: ddd
+2024-03-14 16:49:58 - New client connection received: Client (1)
+2024-03-14 16:50:01 - Message received from asdd: ddddd
+2024-03-14 16:50:03 - Message sent from asdd: dddd
+2024-03-14 16:52:32 - New client connection received: Client (1)
+2024-03-14 16:52:38 - Message received from Aleks: Alekffsd
+2024-03-14 16:52:40 - Message sent from Aleks: dddd
+2024-03-14 16:54:23 - New client connection received: Client (1)
+2024-03-14 16:54:25 - Message received from ASdd: ddd
+2024-03-14 16:54:28 - Message sent from ASdd: dddd
+2024-03-14 17:22:22 - New client connection received: Client (1)
+2024-03-14 17:22:24 - Client disconnected: Client (1)
+2024-03-14 17:23:25 - New client connection received: Client (1)
+2024-03-14 17:23:29 - Message received from aslksakndl,jmbasf: ffff
+2024-03-14 17:23:31 - Message sent from aslksakndl,jmbasf: ddd
+2024-03-14 17:44:18 - New client connection received: Client (1)
+2024-03-14 17:44:22 - Message received from test: testsss
+2024-03-14 17:44:24 - Message sent from test: tttt
+2024-03-14 17:44:26 - Message received from test: Test
+2024-03-14 17:44:29 - Message received from test: sss
+2024-03-14 17:44:30 - Message sent from test: ass
+2024-03-14 17:54:17 - New client connection received: Client (1)
+2024-03-14 17:54:19 - Client disconnected: Client (1)
+2024-03-14 18:00:43 - New client connection received: Client (1)
+2024-03-14 18:00:46 - Message received from test: test
+2024-03-14 18:00:48 - Message sent from test: test
